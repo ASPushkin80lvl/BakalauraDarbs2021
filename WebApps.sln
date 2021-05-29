@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ASP_NET_CORE_APP", "ASP NET CORE\ASP_NET_CORE_APP.csproj", "{220667A5-5A6D-4D22-9A80-B4033F7FF9CE}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NODE_JS_APP", "NODE JS\NODE_JS_APP.njsproj", "{89ECAF50-AC60-4645-8AA2-0426F4548B81}"
+EndProject
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "PHP_APP", "PHP\PHP_APP.phpproj", "{23382E96-5FC4-475A-8AB1-7D12577FDBE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{220667A5-5A6D-4D22-9A80-B4033F7FF9CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{220667A5-5A6D-4D22-9A80-B4033F7FF9CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{220667A5-5A6D-4D22-9A80-B4033F7FF9CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{220667A5-5A6D-4D22-9A80-B4033F7FF9CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89ECAF50-AC60-4645-8AA2-0426F4548B81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89ECAF50-AC60-4645-8AA2-0426F4548B81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89ECAF50-AC60-4645-8AA2-0426F4548B81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89ECAF50-AC60-4645-8AA2-0426F4548B81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23382E96-5FC4-475A-8AB1-7D12577FDBE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23382E96-5FC4-475A-8AB1-7D12577FDBE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C7BDF45-9D98-4A0C-87E0-AB4A2F64F637}
+	EndGlobalSection
+EndGlobal
