@@ -22,7 +22,6 @@ const db = require("./models");
 const app = express();
 
 var port = process.env.PORT || 1337;
-var sequelize = new Sequelize('postgres://postgres:29465532@localhost:5432/BakalauraDarbsDB');
 
 app.use(bodyParser.text());
 db.sequelize.sync();
